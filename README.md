@@ -1,5 +1,5 @@
 # Rosalind-problems
-These are my solutions for the bioinformatical puzzles posted on rosalind.info. For most of these I have been using Python 2, but some I have written in R. 
+These are my solutions for the bioinformatical puzzles posted on rosalind.info. I have been writing most of these Python 2, but I might write some in R in the future. 
 
 # Usage
 Run the python scripts with ```python myscript.py```. In some scripts, a sample input is included in the script, e.g. a DNA sequence. In others, the input is read from a file (usually fasta or text). Likewise, the output of the script might be printed to the console or to a text file. You can get an appropriate dataset on the respective Rosalind problem page. 
