@@ -19,3 +19,4 @@ Run the python scripts with ```python myscript.py```. In some scripts, a sample 
 + PERM: Enumerating Gene Orders 
 + PRTM: Calculating Protein Mass
 + SPLC: RNA Splicing 
++ GRPH: Overlap Graphs
