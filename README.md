@@ -20,3 +20,4 @@ Run the python scripts with ```python myscript.py```. In some scripts, a sample 
 + PRTM: Calculating Protein Mass
 + SPLC: RNA Splicing 
 + GRPH: Overlap Graphs
++ ORF: Open Reading Frames
