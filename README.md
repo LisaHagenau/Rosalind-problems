@@ -21,3 +21,4 @@ Run the python scripts with ```python myscript.py```. In some scripts, a sample 
 + SPLC: RNA Splicing 
 + GRPH: Overlap Graphs
 + ORF: Open Reading Frames
++ TRAN: Transitions and Transversions
