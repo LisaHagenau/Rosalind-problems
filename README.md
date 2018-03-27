@@ -22,3 +22,4 @@ Run the python scripts with ```python myscript.py```. In some scripts, a sample 
 + GRPH: Overlap Graphs
 + ORF: Open Reading Frames
 + TRAN: Transitions and Transversions
++ MRNA: Inferring mRNA from Protein
