@@ -23,3 +23,5 @@ Run the python scripts with ```python myscript.py```. In some scripts, a sample 
 + ORF: Open Reading Frames
 + TRAN: Transitions and Transversions
 + MRNA: Inferring mRNA from Protein
++ REVP: Locating Restriction Sites
++ CONS: Consensus and Profile
